@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"checking5");
+    NSLog(@"checking6");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
