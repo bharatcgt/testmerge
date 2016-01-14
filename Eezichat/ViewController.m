@@ -17,8 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"checking2");
+    NSLog(@"checking88");
     NSLog(@"checking5");
     NSLog(@"checking6");
+    NSLog(@"checking89");
+    NSLog(@"checking90");
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(void)checking3
