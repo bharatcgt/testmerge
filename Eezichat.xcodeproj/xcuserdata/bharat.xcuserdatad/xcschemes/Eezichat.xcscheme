@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4F1246941C47A46A0020207B"
+               BlueprintIdentifier = "4F1246B71C47A63E0020207B"
                BuildableName = "Eezichat.app"
                BlueprintName = "Eezichat"
                ReferencedContainer = "container:Eezichat.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4F1246941C47A46A0020207B"
+            BlueprintIdentifier = "4F1246B71C47A63E0020207B"
             BuildableName = "Eezichat.app"
             BlueprintName = "Eezichat"
             ReferencedContainer = "container:Eezichat.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4F1246941C47A46A0020207B"
+            BlueprintIdentifier = "4F1246B71C47A63E0020207B"
             BuildableName = "Eezichat.app"
             BlueprintName = "Eezichat"
             ReferencedContainer = "container:Eezichat.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4F1246941C47A46A0020207B"
+            BlueprintIdentifier = "4F1246B71C47A63E0020207B"
             BuildableName = "Eezichat.app"
             BlueprintName = "Eezichat"
             ReferencedContainer = "container:Eezichat.xcodeproj">

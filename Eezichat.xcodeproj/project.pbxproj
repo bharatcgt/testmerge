@@ -7,29 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F12469A1C47A46A0020207B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1246991C47A46A0020207B /* main.m */; };
-		4F12469D1C47A46A0020207B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F12469C1C47A46A0020207B /* AppDelegate.m */; };
-		4F1246A01C47A46A0020207B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F12469F1C47A46A0020207B /* ViewController.m */; };
-		4F1246A31C47A46A0020207B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246A11C47A46A0020207B /* Main.storyboard */; };
-		4F1246A51C47A46A0020207B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246A41C47A46A0020207B /* Assets.xcassets */; };
-		4F1246A81C47A46A0020207B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246A61C47A46A0020207B /* LaunchScreen.storyboard */; };
+		4F1246BD1C47A63E0020207B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1246BC1C47A63E0020207B /* main.m */; };
+		4F1246C01C47A63E0020207B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1246BF1C47A63E0020207B /* AppDelegate.m */; };
+		4F1246C31C47A63E0020207B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1246C21C47A63E0020207B /* ViewController.m */; };
+		4F1246C61C47A63E0020207B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246C41C47A63E0020207B /* Main.storyboard */; };
+		4F1246C81C47A63E0020207B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246C71C47A63E0020207B /* Assets.xcassets */; };
+		4F1246CB1C47A63E0020207B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F1246C91C47A63E0020207B /* LaunchScreen.storyboard */; };
+		4F1246D41C47A6710020207B /* banaoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F1246D31C47A6710020207B /* banaoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4F1246951C47A46A0020207B /* Eezichat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Eezichat.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F1246991C47A46A0020207B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4F12469B1C47A46A0020207B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		4F12469C1C47A46A0020207B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4F12469E1C47A46A0020207B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		4F12469F1C47A46A0020207B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		4F1246A21C47A46A0020207B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4F1246A41C47A46A0020207B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4F1246A71C47A46A0020207B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4F1246A91C47A46A0020207B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F1246B81C47A63E0020207B /* Eezichat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Eezichat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F1246BC1C47A63E0020207B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4F1246BE1C47A63E0020207B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4F1246BF1C47A63E0020207B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4F1246C11C47A63E0020207B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4F1246C21C47A63E0020207B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4F1246C51C47A63E0020207B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4F1246C71C47A63E0020207B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4F1246CA1C47A63E0020207B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4F1246CC1C47A63E0020207B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F1246D21C47A6710020207B /* banaoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = banaoViewController.h; sourceTree = "<group>"; };
+		4F1246D31C47A6710020207B /* banaoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = banaoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4F1246921C47A46A0020207B /* Frameworks */ = {
+		4F1246B51C47A63E0020207B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +42,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4F12468C1C47A46A0020207B = {
+		4F1246AF1C47A63E0020207B = {
 			isa = PBXGroup;
 			children = (
-				4F1246971C47A46A0020207B /* Eezichat */,
-				4F1246961C47A46A0020207B /* Products */,
+				4F1246BA1C47A63E0020207B /* Eezichat */,
+				4F1246B91C47A63E0020207B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4F1246961C47A46A0020207B /* Products */ = {
+		4F1246B91C47A63E0020207B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4F1246951C47A46A0020207B /* Eezichat.app */,
+				4F1246B81C47A63E0020207B /* Eezichat.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4F1246971C47A46A0020207B /* Eezichat */ = {
+		4F1246BA1C47A63E0020207B /* Eezichat */ = {
 			isa = PBXGroup;
 			children = (
-				4F12469B1C47A46A0020207B /* AppDelegate.h */,
-				4F12469C1C47A46A0020207B /* AppDelegate.m */,
-				4F12469E1C47A46A0020207B /* ViewController.h */,
-				4F12469F1C47A46A0020207B /* ViewController.m */,
-				4F1246A11C47A46A0020207B /* Main.storyboard */,
-				4F1246A41C47A46A0020207B /* Assets.xcassets */,
-				4F1246A61C47A46A0020207B /* LaunchScreen.storyboard */,
-				4F1246A91C47A46A0020207B /* Info.plist */,
-				4F1246981C47A46A0020207B /* Supporting Files */,
+				4F1246BE1C47A63E0020207B /* AppDelegate.h */,
+				4F1246BF1C47A63E0020207B /* AppDelegate.m */,
+				4F1246C11C47A63E0020207B /* ViewController.h */,
+				4F1246C21C47A63E0020207B /* ViewController.m */,
+				4F1246C41C47A63E0020207B /* Main.storyboard */,
+				4F1246C71C47A63E0020207B /* Assets.xcassets */,
+				4F1246C91C47A63E0020207B /* LaunchScreen.storyboard */,
+				4F1246CC1C47A63E0020207B /* Info.plist */,
+				4F1246BB1C47A63E0020207B /* Supporting Files */,
+				4F1246D21C47A6710020207B /* banaoViewController.h */,
+				4F1246D31C47A6710020207B /* banaoViewController.m */,
 			);
 			path = Eezichat;
 			sourceTree = "<group>";
 		};
-		4F1246981C47A46A0020207B /* Supporting Files */ = {
+		4F1246BB1C47A63E0020207B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4F1246991C47A46A0020207B /* main.m */,
+				4F1246BC1C47A63E0020207B /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,13 +87,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4F1246941C47A46A0020207B /* Eezichat */ = {
+		4F1246B71C47A63E0020207B /* Eezichat */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4F1246AC1C47A46A0020207B /* Build configuration list for PBXNativeTarget "Eezichat" */;
+			buildConfigurationList = 4F1246CF1C47A63E0020207B /* Build configuration list for PBXNativeTarget "Eezichat" */;
 			buildPhases = (
-				4F1246911C47A46A0020207B /* Sources */,
-				4F1246921C47A46A0020207B /* Frameworks */,
-				4F1246931C47A46A0020207B /* Resources */,
+				4F1246B41C47A63E0020207B /* Sources */,
+				4F1246B51C47A63E0020207B /* Frameworks */,
+				4F1246B61C47A63E0020207B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -96,24 +101,24 @@
 			);
 			name = Eezichat;
 			productName = Eezichat;
-			productReference = 4F1246951C47A46A0020207B /* Eezichat.app */;
+			productReference = 4F1246B81C47A63E0020207B /* Eezichat.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4F12468D1C47A46A0020207B /* Project object */ = {
+		4F1246B01C47A63E0020207B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Bharat Paryani";
 				TargetAttributes = {
-					4F1246941C47A46A0020207B = {
+					4F1246B71C47A63E0020207B = {
 						CreatedOnToolsVersion = 7.2;
 					};
 				};
 			};
-			buildConfigurationList = 4F1246901C47A46A0020207B /* Build configuration list for PBXProject "Eezichat" */;
+			buildConfigurationList = 4F1246B31C47A63E0020207B /* Build configuration list for PBXProject "Eezichat" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -121,55 +126,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 4F12468C1C47A46A0020207B;
-			productRefGroup = 4F1246961C47A46A0020207B /* Products */;
+			mainGroup = 4F1246AF1C47A63E0020207B;
+			productRefGroup = 4F1246B91C47A63E0020207B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4F1246941C47A46A0020207B /* Eezichat */,
+				4F1246B71C47A63E0020207B /* Eezichat */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4F1246931C47A46A0020207B /* Resources */ = {
+		4F1246B61C47A63E0020207B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F1246A81C47A46A0020207B /* LaunchScreen.storyboard in Resources */,
-				4F1246A51C47A46A0020207B /* Assets.xcassets in Resources */,
-				4F1246A31C47A46A0020207B /* Main.storyboard in Resources */,
+				4F1246CB1C47A63E0020207B /* LaunchScreen.storyboard in Resources */,
+				4F1246C81C47A63E0020207B /* Assets.xcassets in Resources */,
+				4F1246C61C47A63E0020207B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4F1246911C47A46A0020207B /* Sources */ = {
+		4F1246B41C47A63E0020207B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F1246A01C47A46A0020207B /* ViewController.m in Sources */,
-				4F12469D1C47A46A0020207B /* AppDelegate.m in Sources */,
-				4F12469A1C47A46A0020207B /* main.m in Sources */,
+				4F1246D41C47A6710020207B /* banaoViewController.m in Sources */,
+				4F1246C31C47A63E0020207B /* ViewController.m in Sources */,
+				4F1246C01C47A63E0020207B /* AppDelegate.m in Sources */,
+				4F1246BD1C47A63E0020207B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4F1246A11C47A46A0020207B /* Main.storyboard */ = {
+		4F1246C41C47A63E0020207B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4F1246A21C47A46A0020207B /* Base */,
+				4F1246C51C47A63E0020207B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4F1246A61C47A46A0020207B /* LaunchScreen.storyboard */ = {
+		4F1246C91C47A63E0020207B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4F1246A71C47A46A0020207B /* Base */,
+				4F1246CA1C47A63E0020207B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -177,7 +183,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4F1246AA1C47A46A0020207B /* Debug */ = {
+		4F1246CD1C47A63E0020207B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -220,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		4F1246AB1C47A46A0020207B /* Release */ = {
+		4F1246CE1C47A63E0020207B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +263,7 @@
 			};
 			name = Release;
 		};
-		4F1246AD1C47A46A0020207B /* Debug */ = {
+		4F1246D01C47A63E0020207B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -268,7 +274,7 @@
 			};
 			name = Debug;
 		};
-		4F1246AE1C47A46A0020207B /* Release */ = {
+		4F1246D11C47A63E0020207B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -282,24 +288,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4F1246901C47A46A0020207B /* Build configuration list for PBXProject "Eezichat" */ = {
+		4F1246B31C47A63E0020207B /* Build configuration list for PBXProject "Eezichat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4F1246AA1C47A46A0020207B /* Debug */,
-				4F1246AB1C47A46A0020207B /* Release */,
+				4F1246CD1C47A63E0020207B /* Debug */,
+				4F1246CE1C47A63E0020207B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4F1246AC1C47A46A0020207B /* Build configuration list for PBXNativeTarget "Eezichat" */ = {
+		4F1246CF1C47A63E0020207B /* Build configuration list for PBXNativeTarget "Eezichat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4F1246AD1C47A46A0020207B /* Debug */,
-				4F1246AE1C47A46A0020207B /* Release */,
+				4F1246D01C47A63E0020207B /* Debug */,
+				4F1246D11C47A63E0020207B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4F12468D1C47A46A0020207B /* Project object */;
+	rootObject = 4F1246B01C47A63E0020207B /* Project object */;
 }
