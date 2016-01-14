@@ -22,6 +22,8 @@
     NSLog(@"checking6");
     NSLog(@"checking89");
     NSLog(@"checking90");
+
+    NSLog(@"checking 7");
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(void)checking3
