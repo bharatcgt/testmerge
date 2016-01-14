@@ -16,7 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"checking2");
+
     // Do any additional setup after loading the view, typically from a nib.
+}
+-(void)checking3
+{
+    NSLog(@"checking4");
 }
 
 - (void)didReceiveMemoryWarning {
